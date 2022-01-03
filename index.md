@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kanagawa
 
 You can use the [editor on GitHub](https://github.com/AlexJF12/kanagawa-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

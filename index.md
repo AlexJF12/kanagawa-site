@@ -1,5 +1,3 @@
-# Kanagawa
-
 ## What is Kanagawa?
 
 Kanagawa provides political campaigns with public data about their district, voting history, and voters. 
@@ -51,3 +49,9 @@ The price depends on the size of the district you are interested in. That being 
 ## How do I get in touch with you?
 
 Fill out the form at this link. ADD LINK HERE
+
+## Why is this called Kanagawa?
+
+[The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) is a famous woodblock print by Japanese artist Hokusai. Woodblock printing requires meticulous work to shape the face of the wood into a piece of art, but can then be used to print its image over and over. In a similar vein, the program to generate this report requires meticulous coding work, but can be used repeatedly to create the finished product.
+
+It also is the inspiration for my favorite emoji :ocean:

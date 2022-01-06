@@ -1,12 +1,12 @@
 ## What is Kanagawa?
 
-Kanagawa provides political campaigns with public data about their district, voting history, and voters. 
+This service provides political campaigns with public data about their district, voting history, and voters. 
 
 Submit a request here to get started:
 
 ADD LINK
 
-## What is the point of this service?
+## Who would benefit from this data and report?
 
 If you are interested in running for office, knowing the history and layout of the district you're interested in is a good place to start. This provides that.
 
@@ -54,4 +54,4 @@ Fill out the form at this link. ADD LINK HERE
 
 [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) is a famous woodblock print by Japanese artist Hokusai. Woodblock printing requires meticulous work to shape the face of the wood into a piece of art, but can then be used to print its image over and over. In a similar vein, the program to generate this report requires meticulous coding work, but can be used repeatedly to create the finished product.
 
-It also is the inspiration for my favorite emoji :ocean:
+It also is the inspiration for my favorite emoji. 🌊

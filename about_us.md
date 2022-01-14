@@ -1,6 +1,6 @@
 layout: page
 title: "About Us"
-permalink: /about/
+permalink: /about_us/
 
 # About Us
 

@@ -2,9 +2,9 @@
 
 This service provides political campaigns with public data about their district, voting history, and voters. 
 
-Submit a request here to get started:
+Submit a request [here] (https://alexjf12.github.io/kanagawa-site/contact) to get started:
 
-ADD LINK
+https://alexjf12.github.io/kanagawa-site/contact
 
 ## Who would benefit from buying this data and report?
 
@@ -53,20 +53,24 @@ Not at this moment, but feel free to reach out and I can see what's possible.
 
 ## Can I see a sample report?
 
-Yep! Fill out this form and I can send a sample.
+Yep! [Fill out this form] (https://alexjf12.github.io/kanagawa-site/contact) with SAMPLE as the Requested District and I will get one to you.
 
-ADD LINK TO FORM
+https://alexjf12.github.io/kanagawa-site/contact
 
-## What does this cost?
+## What will this cost me?
 
 The price depends on the size of the district you are interested in. That being said, I can work with your budget. This project is still in draft form and I want to hear feedback.
 
 ## How do I get in touch with you?
 
-Fill out the form at this link. ADD LINK HERE
+[Fill out this form] (https://alexjf12.github.io/kanagawa-site/contact) with your name, your email, the disctrict you are interseted in and anything else.
+
+https://alexjf12.github.io/kanagawa-site/contact
 
 ## Why is this called Kanagawa?
 
 [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) is a famous woodblock print by Japanese artist Hokusai. Woodblock printing requires meticulous work to shape the face of the wood into a piece of art, but can then be used to print its image over and over. In a similar vein, the program to generate this report requires meticulous coding work, but can be used repeatedly to create the finished product.
 
-It also is the inspiration for my favorite emoji. 🌊
+It is also the inspiration for my favorite emoji.
+
+🌊

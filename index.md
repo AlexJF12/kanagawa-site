@@ -1,6 +1,6 @@
 ## What is Kanagawa?
 
-This service provides political campaigns with public data about their district, voting history, and voters. 
+Kanagawa is a service that provides political campaigns with an aggregated report and raw public data about their district, voting history, and voters. 
 
 Submit a request [here] (/contact.md) to get started:
 
@@ -8,15 +8,15 @@ https://alexjf12.github.io/kanagawa-site/contact
 
 ## Who would benefit from buying this data and report?
 
-If you are interested in running for office, knowing the history and layout of the district you're interested in is a good place to start. This provides that.
+If you are interested in running for office, this is a good place to start.
 
-And if you are running for a local office, you probably don't have the resources to hire a data person, much less a team. You can use the information provided in this report to help target your GOTV, persuasion, and fundraising efforts.
+And if you are currently running for a local office, you probably don't have the resources to hire a data person, much less a team. You can use the information provided in this report to help target your GOTV, persuasion, and fundraising efforts.
 
 ## What files are included in the report?
 
 * The Voter File, as provided by the State of Florida
 * Predictions, per individual, on their likelihood to vote and their likelihood to be a Democrat
-* Individuals who have donated to a Federal Political Campaign/PAC
+* The FEC Donor File of individuals who donated to Federal campaigns/PACs from your district's general area
 * An interactive map of the 2020 Election results at the precinct level
 * An aggregated report showing various counts and sums of voters and donors in different regions
 
@@ -26,7 +26,7 @@ The voter file is actually two files. The first file provides information on eac
 
 I have supplemented the donor file with a voter_likelihood and democrat_likelihood, predicting their propensity to vote in the upcoming election and to be a democrat.
 
-## What is in the "Federal Political Campaign/PAC" file?
+## What is in the FEC Donor file?
 
 Every donation made to a federal political campaign or PAC is reported to the FEC and made public (eventually). The name, organization, occupation and zip code of the individual donating is included. This report finds everyone who has made a federal political donation in a zip code that overlaps with the district in question. Donations made to state/local political campaigns are not reported to the FEC and are not included in this report, yet.
 

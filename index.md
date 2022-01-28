@@ -18,6 +18,7 @@ And if you are currently running for a local office, you probably don't have the
 * Predictions, per individual, on their likelihood to vote and their likelihood to be a Democrat
 * The FEC Donor File of individuals who donated to Federal campaigns/PACs from your district's general area
 * An interactive map of the 2020 Election results at the precinct level
+* Google Ads, who paid for them, amount paid, number of impressions, and more of ads placed on Google for the District's area
 * An aggregated report showing various counts and sums of voters and donors in different regions
 
 ## What is in the Voter File?
@@ -63,7 +64,7 @@ The price depends on the size of the district you are interested in. That being 
 
 ## How do I get in touch with you?
 
-[Fill out this form](https://alexjf12.github.io/kanagawa-site/contact) with your name, your email, the disctrict you are interseted in and anything else.
+[Fill out this form](https://alexjf12.github.io/kanagawa-site/contact) with your name, your email, the disctrict you are interseted in and anything else you'd like to tell me.
 
 https://alexjf12.github.io/kanagawa-site/contact
 

@@ -10,7 +10,7 @@ Submit a request [here](https://www.kanagawa.io/contact) to get started:
 
 If you are interested in running for office, this is a good place to start.
 
-And if you are currently running for a local office, you probably don't have the resources to hire a data person, much less a team. You can use the information provided in this report to help target your GOTV, persuasion, and fundraising efforts.
+And if you are currently running for a local office, you may not have the resources to hire a data person, much less a team. Don't sweat it! You can use the information provided in this report to help target your GOTV, persuasion, and fundraising efforts.
 
 ## What files are included in the report?
 
@@ -23,9 +23,9 @@ And if you are currently running for a local office, you probably don't have the
 
 ## What is in the Voter File?
 
-The voter file is actually two files. The first file provides information on each registered voter in the state of Florida. It includes their name, address, party registration and a few other fields. The second file contains each voter's voting history, including elections they were elgible to vote in, if they voted, and by withc method (in person, mail, etc.).
+The voter file is actually two files. The first file provides information on each registered voter in the state of Florida. It includes their name, address, party registration and a few other fields. The second file contains each voter's voting history, including elections they were elgible to vote in, if they voted, and by witch method (in person, mail, etc.).
 
-I have supplemented the donor file with a voter_likelihood and democrat_likelihood, predicting their propensity to vote in the upcoming election and to be a democrat.
+I have supplemented the donor file with a voter_likelihood and democrat_likelihood, my predictions for their propensity to vote in the upcoming election and to be a democrat.
 
 ## What is in the FEC Donor file?
 

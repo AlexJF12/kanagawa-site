@@ -2,9 +2,9 @@
 
 Kanagawa is a service that provides political campaigns with an aggregated report and raw public data about their district, voting history, and voters. 
 
-Submit a request [here](https://alexjf12.github.io/kanagawa-site/contact) to get started:
+Submit a request [here](https://www.kanagawa.io/contact) to get started:
 
-[https://alexjf12.github.io/kanagawa-site/contact](https://alexjf12.github.io/kanagawa-site/contact)
+[https://www.kanagawa.io/contact](https://www.kanagawa.io/contact)
 
 ## Who would benefit from buying this data and report?
 
@@ -54,9 +54,9 @@ Not at this moment, but feel free to reach out and I can see what's possible.
 
 ## Can I see a sample report?
 
-Yep! [Fill out this form](https://alexjf12.github.io/kanagawa-site/contact) with SAMPLE as the Requested District and I will get one to you.
+Yep! [Fill out this form](https://www.kanagawa.io/contact) with SAMPLE as the Requested District and I will get one to you.
 
-[https://alexjf12.github.io/kanagawa-site/contact](https://alexjf12.github.io/kanagawa-site/contact)
+[https://www.kanagawa.io/contact](https://www.kanagawa.io/contact)
 
 ## What will this cost me?
 
@@ -64,9 +64,9 @@ The price depends on the size of the district you are interested in. That being 
 
 ## How do I get in touch with you?
 
-[Fill out this form](https://alexjf12.github.io/kanagawa-site/contact) with your name, your email, the disctrict you are interseted in and anything else you'd like to tell me.
+[Fill out this form](https://www.kanagawa.io/contact) with your name, your email, the disctrict you are interseted in and anything else you'd like to tell me.
 
-[https://alexjf12.github.io/kanagawa-site/contact](https://alexjf12.github.io/kanagawa-site/contact)
+[https://www.kanagawa.io/contact](https://www.kanagawa.io/contact)
 
 ## Why is this called Kanagawa?
 

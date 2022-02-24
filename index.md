@@ -54,9 +54,9 @@ Not at this moment, but feel free to reach out and I can see what's possible.
 
 ## Can I see a sample report?
 
-Yep! [Fill out this form](https://www.kanagawa.io/contact) with SAMPLE as the Requested District and I will get one to you.
+Yep! I've created a sample based on Florida's 22nd State House District. The PDF file is based on real voter and donor data, but only on a sample of 1000 voters. In addition, I've modified the CSV files of the voter file and donor file with fake names and other information, but the columns are the same.
 
-[https://www.kanagawa.io/contact](https://www.kanagawa.io/contact)
+<a href="https://github.com/AlexJF12/kanagawa-site/blob/6d5b2966812ca3f3b57deb27727bebe99eb76c7c/assets/sample_kanagawa_output_fl_house_22.zip" download>Download Sample</a>
 
 ## What will this cost me?
 

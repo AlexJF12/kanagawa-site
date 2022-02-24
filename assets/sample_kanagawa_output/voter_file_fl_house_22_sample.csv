@@ -1,0 +1,10 @@
+,voter_id,first_name,middle_name,last_name,residence_address_line1,residence_address_line2,city,residence_state,zip_code5,gender,age_jan_1_2021,party,registration_date,cnt_voted,cnt_elections,vote_score,dem_score,census_tract
+0,5436531,Samwell,,Tarley,222 Book Rd,Apt 3,Winterfell,FL,32618,M,59,DEM,2004-10-01,10,11,0.9091,0.725,
+1,1346161,Tyrion,,Lannister,1 Gold Ave,,Kings Landing,FL,32618,M,28,NPA,2011-03-31,2,2,1,0.775,
+2,653165341,Jeor,,Mormont,123 Bear Rd,,Winterfell,FL,32618,M,52,DEM,1987-05-19,5,5,1,0.825,
+3,1571457,Peter,Littlefinger,Baelish,987 South Alley,,Kings Landing,FL,32618,M,62,DEM,2020-09-25,1,1,1,0.75,
+4,2457271,Benjen,,Stark,234 Ice Way,,Winterfell,FL,32621,M,38,REP,2020-10-15,0,0,0,0.2,
+5,652474,Edmure,,Tully,456 River Rd,,Riverrun,FL,32625,M,24,DEM,2015-03-16,1,1,1,0.825,
+6,4527417,Lyanna,,Mormont,123 Bear Rd,,Winterfell,FL,32625,F,65,NPA,2013-05-03,0,0,0,0.4,
+7,642565,Meera,,Reed,343 Lilypad St,Apt 303,Marsh,FL,32625,F,22,REP,2013-06-03,1,1,1,1,
+8,57427,Yara,,Greyjoy,1241 Honor Rd,,Iron Islands,FL,32618,F,32,NPA,2005-05-22,2,2,1,0.775,

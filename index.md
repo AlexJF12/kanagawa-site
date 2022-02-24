@@ -52,6 +52,10 @@ I have previous political work experience in Florida, so I figured I'd start the
 
 Not at this moment, but feel free to reach out and I can see what's possible.
 
+## What side of the politcal divide do you work with?
+
+The Great Blue Wave logo should tip you off, but I work with candidates who align with progressive values. Saying that, I understand that many local races are technically non-partisan. In addition, I recognise that many local races are decided in the primary. If you want to win, somethimes you need to register with a party in name only. Feel free to reach out.
+
 ## Can I see a sample report?
 
 Yep! I've created a sample based on Florida's 22nd State House District. The PDF file is based on real voter and donor data, but only on a sample of 1000 voters. In addition, I've modified the CSV files of the voter file and donor file with fake names and other information, but the columns are the same.
@@ -60,7 +64,7 @@ Yep! I've created a sample based on Florida's 22nd State House District. The PDF
 
 ## What will this cost me?
 
-The price depends on the size of the district you are interested in. That being said, I can work with your budget. This project is still in draft form and I want to hear feedback.
+The price depends on the size of the district you are interested in. That being said, I can work with your budget. This project is still in beta and I want to hear feedback.
 
 ## How do I get in touch with you?
 
@@ -71,7 +75,5 @@ The price depends on the size of the district you are interested in. That being 
 ## Why is this called Kanagawa?
 
 [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) is a famous woodblock print by Japanese artist Hokusai. Woodblock printing requires meticulous work to shape the face of the wood into a piece of art, but can then be used to print its image over and over. In a similar vein, the program to generate this report requires meticulous coding work, but can be used repeatedly to create the finished product.
-
-It is also the inspiration for my favorite emoji.
 
 🌊

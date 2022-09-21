@@ -6,7 +6,13 @@ Submit a request [here](https://www.kanagawa.io/contact) to get started:
 
 [https://www.kanagawa.io/contact](https://www.kanagawa.io/contact)
 
-## Who would benefit from buying this data and report?
+## First, what will this cost?
+
+For the 2022 cycle - nothing! It's being offered free since it is still a work in progress. All I ask is for some constructive criticism.
+
+That being said, if there is custom work beyond the report you'd like to have done, we can figure something out.
+
+## Who would benefit from this data and report?
 
 If you are interested in running for office, this is a good place to start.
 
@@ -61,10 +67,6 @@ The Great Blue Wave logo should tip you off, but I work with candidates who alig
 Yep! I've created a sample based on Florida's 22nd State House District. The PDF file is based on real voter and donor data, but only on a sample of 1000 voters. In addition, I've modified the CSV files of the voter file and donor file with fake names and other information, but the columns are the same.
 
 <a href="https://github.com/AlexJF12/kanagawa-site/blob/6d5b2966812ca3f3b57deb27727bebe99eb76c7c/assets/sample_kanagawa_output_fl_house_22.zip" download>Download Sample</a>
-
-## What will this cost me?
-
-The price depends on the size of the district you are interested in. That being said, I can work with your budget. This project is still in beta and I want to hear feedback.
 
 ## How do I get in touch with you?
 
